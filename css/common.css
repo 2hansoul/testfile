@@ -1,0 +1,74 @@
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,form,fieldset,p,button{margin:0;padding:0}
+
+.div_loginmain{
+	border: 1px solid #212020;
+    width: 444;
+    height: 560;
+    background-color: yellow;
+    text-align: center;
+    margin-left: 595px;
+}
+/*input 부분 */
+.tempInput {
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 0px;
+    width: 259px;
+    height: 28px;
+    margin-bottom: -7px;
+	text-indent: 28px;
+	background-color:yellow;
+	border-color:black;
+}
+.tempInput1 {
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 0px;
+    width: 259px;
+    height: 28px;
+    margin-bottom: 25px;
+	text-indent: 28px; /*text입력시 공간 창출*/
+	background-color:yellow;
+	border-color:black;
+	color: blue;
+
+}
+.imgmenu1{
+	width: 23px;
+    position: relative;
+    top: 28px;
+    right: 120px;
+}
+.imgmenu2{
+   width: 26px;
+    position: relative;
+    top: 28px;
+    right: 121px;
+}
+
+.id_rember{
+margin-left: -132px;
+margin-top: -10px;
+}
+
+.login_btn{
+    width: 259px;
+    height: 37px;
+    border: solid;
+    border-radius: 8px;
+    background-color: #109b10;
+    border-color: #109b10;
+    font-family: 'Binggrae';
+    font-size: 16px;
+    color: white;
+    font-weight: bolder;
+
+}
+input[type="checkbox"]{
+
+    width: 28px;
+    height: 15px;
+    left: 2px;
+    position: relative;
+}
